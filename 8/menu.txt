@@ -1,0 +1,6 @@
+Ramen#10000
+Nasi Goreng#20000
+Ifumie#30000
+Pisang Goreng#10000
+Mie Goreng#20000
+Lumpia#30000
